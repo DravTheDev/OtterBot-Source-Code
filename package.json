@@ -1,0 +1,14 @@
+{
+  "name": "otterbot-src",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drav_TheDev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
